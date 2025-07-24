@@ -30,4 +30,3 @@ FILES INCLUDED
  MiniProject_Documentation.docx – Mini Project description 
 SCREENSHOTS
 <img width="817" height="430" alt="image" src="https://github.com/user-attachments/assets/c0fd5bd2-fceb-400a-b126-443eb41e6450" />
-<img width="779" height="433" alt="image" src="https://github.com/user-attachments/assets/304cd082-98d4-40a7-b94a-922ed841c81a" />
